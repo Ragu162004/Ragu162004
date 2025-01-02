@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am a dedicated full-stack developer currently pursuing a degree in Computer Science and Engineering. <br>With hands-on experience in building web and mobile applications through academic projects and hackathons, I thrive on solving complex challenges and crafting intuitive, user-centric designs to enhance user experiences. <br>Proficient in the MERN stack and React Native, I am committed to continuous learning and leveraging innovative technologies to deliver impactful solutions.<br>
+I am a dedicated full-stack developer currently pursuing a degree in Computer Science and Engineering. With hands-on experience in building web and mobile applications through academic projects and hackathons, I thrive on solving complex challenges and crafting intuitive, user-centric designs to enhance user experiences. Proficient in the MERN stack and React Native, I am committed to continuous learning and leveraging innovative technologies to deliver impactful solutions.<br>
 
 
 ## 🌐 Socials:
