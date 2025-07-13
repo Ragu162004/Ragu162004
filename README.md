@@ -1,57 +1,62 @@
 ### Hi there 👋
 
-<!--
-**robin-jr/robin-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
    <h1>Hi there, I'm <a href="https://ragulandiranm.vercel.app/">Ragulandiran M</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 ## <p align='center'>Full Stack Developer</p>
 
-## About Me
- - I am a dedicated full-stack developer currently pursuing a degree in Computer Science and Engineering.
- - I thrive on solving complex challenges and crafting intuitive, user-centric designs to enhance user experiences.
- - Proficient in the MERN stack and React Native.
- - I am committed to continuous learning and leveraging innovative technologies to deliver impactful solutions.
+---
 
-## <h1> Tech Stacks I know </h1>
+## 🧑‍💻 About Me
+- 🎓 I am a dedicated full-stack developer currently pursuing a degree in Computer Science and Engineering.
+- 💡 I thrive on solving complex challenges and crafting intuitive, user-centric designs to enhance user experiences.
+- ⚙️ Proficient in the MERN stack and React Native.
+- 🚀 I am committed to continuous learning and leveraging innovative technologies to deliver impactful solutions.
 
-## Languages
- [<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>]()
- [<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>]()
- [<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]()
- [<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>]()
- 
+---
 
-## FrameWorks/Libraries
-[<img alt="React Js" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>]()
-[<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>]()
-[<img alt="Next Js" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>]()
-[<img alt="Redux Js" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>]()
-[<img alt="Express Js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>]()
+## 🚀 Tech Stacks I Know
 
-## DataBase & Cloud Services
-[<img alt="MongoDB" src="https://img.shields.io/badge/mongodb%20-4FA94B.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>]()
-[<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>]()
-[<img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>]()
-[<img alt="AWS" src="https://img.shields.io/badge/aws-ffca28?style=for-the-badge&logo=amazon&logoColor=black"/>]()
+### 👨‍💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Tools
-[<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>]()
-[<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>]()
-[<img alt="Figma" src="https://img.shields.io/badge/figma%20-F34423.svg?&style=for-the-badge&logo=figma&logoColor=white"/>]()
+### ⚛️ Frameworks / Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
+### ☁️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4FA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FFCA28?style=for-the-badge&logo=amazon-aws&logoColor=black)
 
-##
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F34423?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ragulandiran&show_icons=true&theme=tokyonight" alt="Ragulandiran's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragulandiran&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragulandiran&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+- 🌐 Portfolio: [ragulandiranm.vercel.app](https://ragulandiranm.vercel.app/)
+- 💼 GitHub: [@Ragulandiran](https://github.com/Ragulandiran)
