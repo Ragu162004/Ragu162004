@@ -56,5 +56,6 @@
 ---
 
 ## 🔗 Connect With Me
+- 🖇️ LinkedInL [Ragulandiran - LinkedIn](https://www.linkedin.com/in/ragulandiranm/)
 - 🌐 Portfolio: [ragulandiranm.vercel.app](https://ragulandiranm.vercel.app/)
 - 💼 GitHub: [@Ragulandiran](https://github.com/Ragu162004)
