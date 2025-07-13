@@ -12,8 +12,10 @@
 - 🎓 I am a dedicated full-stack developer currently pursuing a degree in Computer Science and Engineering.
 - 💡 I thrive on solving complex challenges and crafting intuitive, user-centric designs to enhance user experiences.
 - ⚙️ Proficient in the MERN stack and React Native.
+- 🏆 Finalist and winner in national-level hackathons like the Tomato Grand Challenge and KEC Hackathons.
+- ☁️ Familiar with tools like Docker, Terraform, AWS, and Git.
+- 🧠 Strong in data structures, DBMS, and problem-solving.
 - 🚀 I am committed to continuous learning and leveraging innovative technologies to deliver impactful solutions.
-
 ---
 
 ## 🚀 Tech Stacks I Know
